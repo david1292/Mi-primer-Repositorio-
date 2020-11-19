@@ -1,2 +1,3 @@
 Esta es la Historia de como aprendi git , en este momento este seria mi segundo commit
 en la rama master.aqui comienza el segundo commit
+este podria ser mi tercer commit para comprobar si puedo regresar en el tiempo , con el comando checkout
