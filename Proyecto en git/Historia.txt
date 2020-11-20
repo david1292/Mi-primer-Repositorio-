@@ -3,4 +3,5 @@ en la rama master.aqui comienza el segundo commit
 este podria ser mi tercer commit para comprobar si puedo regresar en el tiempo , con el comando checkout
 
 Ahora este pedazo de texto solo se puede ver en la rama alterma, nuevamente el parrafo se hace como prueba
-de aprendizaje del curso.
+de aprendizaje del curso. luego hago un segundo commit en la rama alterna para afirmar que si esta funcionando
+todo muy bien en este archivo 
