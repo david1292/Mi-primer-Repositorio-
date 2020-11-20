@@ -4,4 +4,7 @@ este podria ser mi tercer commit para comprobar si puedo regresar en el tiempo ,
 
 Ahora este pedazo de texto solo se puede ver en la rama alterma, nuevamente el parrafo se hace como prueba
 de aprendizaje del curso. luego hago un segundo commit en la rama alterna para afirmar que si esta funcionando
-todo muy bien en este archivo 
+todo muy bien en este archivo
+
+primer commit despues del merge
+
